@@ -17,7 +17,7 @@
 
 ## Hi there 👋
 
-### I'm Javier a web developer student who is enchanted by technology and design 💡
+### I'm Javier a web developer is enchanted by technology and design 💡
 
 
 
